@@ -1,21 +1,19 @@
 # Team Name : Fantastic4
-Clone this repo and use this to upload your project  <- Remove this line before submission -> <br>
-Team ID : **#hack__**    <!--- Replace __ with problem statement number -->
+Team ID :1 **#hack_ Parking Spot Finder** 
 
 ## Problem statement
-Replace this with your selected problem statement 
+Parking spot finder
 
 ### Introduction 
-<!--- Basically abstract of your project -->
-Introdution goes here
+One of the greatest reasons to adopt the parking 24 management system is to track the real-time data and the insights of parking car lots. Over time, smart parking solutions can produce real-time data, which uncovers correlations and the insights of users and car parking lots
 
 #### Team Member
 
 SrNo | Name | Year | Department| Section | Email id
 :--|:--|:--|:--|:--|:--|
-1 | NAME GOES HERE | 2nd |  Information Technology | A | example@internet.com
-2 | NAME GOES HERE | 3rd | Computer Science | B | example@internet.com
-3 | NAME GOES HERE | 1st |  Mechanical | A | example@internet.com
-4 | NAME GOES HERE| 4th |  Civil | E | example@internet.com
+1 | Ayush Jain | 2nd |  Information Technology | A | ayushjain7477@gmail.com
+2 | Harshit Gupta | 2nd | Computer Science(DS) | A | gupta.harshit9900@gmail.com
+3 | Satwik Shrivastava | 2nd | Computer Science(DS) | A | satwiksrivastava09814@gmail.com
+4 | Harshit Mehandiratta| 4th |  Civil | E | harshitmehandiratta1425@gmail.com
 
-<br>
+[fantastic4.zip](https://github.com/Robotech-Hackathon-2021/Team-1-Fantastic4/files/7534349/fantastic4.zip)
